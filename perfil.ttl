@@ -15,7 +15,7 @@
 	foaf:homepage <https://www.facebook.com/pedritounodostres.pablitounodostres>;
 	foaf:based_near <http://sws.geonames.org/3871336/>;
 	foaf:img <http://img1.gofilm.pl/upload/album_1145/b3555b798b4099f8a9ac7db4a3fe0fa7.jpg>;
-	foaf:knows <http://aidanhogan.com/teaching/ba/labs/01/perfil.ttl#yo>,<https://raw.githubusercontent.com/matiasbarbeito/graphdatabases/blob/master/perfil.ttl#yo>;
+	foaf:knows <http://aidanhogan.com/teaching/ba/labs/01/perfil.ttl#yo>,<https://raw.githubusercontent.com/matiasbarbeito/graphdatabases/blob/master/perfil.ttl#yo>, <https://github.com/yoLUkAsss/CursoT1ECI2016/blob/master/perfil.ttl>;
 	foaf:interest wikidata:Q749719 , wikidata:Q28865;
 	ex:likesMovie wikidata:Q190050 , wikidata:Q152105 .
 	
