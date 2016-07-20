@@ -6,7 +6,7 @@
 @prefix wikidata: <http://www.wikidata.org/entity/> .
 
 <#yo> rdf:type foaf:Person;
-	foaf:name "laime Jesus";
+	foaf:name "Laime Jesus";
 	foaf:firstName "Jesus";
 	foaf:surname "Laime";
 	foaf:birthday "12-21";
